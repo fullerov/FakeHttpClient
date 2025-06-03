@@ -1,6 +1,6 @@
 # FakeHttpClient
 
-This document explains how to use the `FakeHttpClient` utility to simulate HTTP responses in your unit tests, and how to inject the fake `HttpClient` into your wrapper for .NET Framework 4.8.
+This document explains how to use the `FakeHttpClient` utility to simulate HTTP responses in your unit tests, and how to inject the fake `HttpClient` into your wrapper for .NET Framework 4.8 (also compatible with .NET 8).
 
 ---
 
